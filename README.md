@@ -1,0 +1,2 @@
+# edeldiamondlounge
+Static site: edeldiamondlounge
