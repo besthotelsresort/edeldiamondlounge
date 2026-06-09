@@ -1,0 +1,4 @@
+Contact: mailto:security@edeldiamondlounge.example
+Expires: 2027-05-28T14:00:03.190Z
+Preferred-Languages: en, de, fr
+Canonical: https://example.com/.well-known/security.txt
